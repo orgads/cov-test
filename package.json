@@ -1,0 +1,20 @@
+{
+  "name": "decorator-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.1",
+    "@types/node": "^22.14.1",
+    "@vitest/coverage-istanbul": "^3.1.2",
+    "typescript": "^5.8.3",
+    "unplugin-swc": "^1.5.2",
+    "vitest": "^3.1.2"
+  }
+}
